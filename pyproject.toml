@@ -1,0 +1,25 @@
+[project]
+name = "friday"
+version = "0.1.0"
+description = "Friday: fast mobile reasoning model with tool calling (by sabareesh)"
+authors = [{name = "sabareesh"}]
+requires-python = ">=3.10"
+dependencies = [
+  "torch>=2.3",
+  "pyyaml>=6.0",
+  "numpy>=1.26",
+  "tqdm>=4.66",
+  "transformers>=4.40",
+  "datasets>=2.19",
+  "accelerate>=0.30",
+  "peft>=0.11",
+  "trl>=0.9",
+  "gguf>=0.6",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

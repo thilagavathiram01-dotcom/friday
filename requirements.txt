@@ -1,0 +1,11 @@
+torch>=2.3
+pyyaml>=6.0
+numpy>=1.26
+tqdm>=4.66
+transformers>=4.40
+datasets>=2.19
+accelerate>=0.30
+peft>=0.11
+trl>=0.9
+gguf>=0.6
+torchao>=0.4
