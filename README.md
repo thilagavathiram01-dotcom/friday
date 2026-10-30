@@ -1,6 +1,6 @@
 # Friday
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabareesh/friday/blob/main/notebooks/train_friday.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thilagavathiram01-dotcom/friday/blob/main/notebooks/train_friday.ipynb)
 
 Fast mobile reasoning model with tool calling, built from scratch by **sabareesh**.
 
